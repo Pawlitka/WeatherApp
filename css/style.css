@@ -4,9 +4,11 @@
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
+
 body{
   background: pink;
 }
+
 .card{
   width: 90%;
   max-width: 470px;
@@ -19,6 +21,7 @@ body{
 
 
 }
+
 .search{
   width: 100%;
   display: flex;
